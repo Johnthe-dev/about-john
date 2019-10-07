@@ -1,5 +1,5 @@
 body {
-	font-family: 'Mansalva', cursive;
+	font-family: 'Mansalva', serif;
 }
 h1 {
 
@@ -10,4 +10,7 @@ font-family: 'Roboto Slab', serif;
 }
 #para-one {
 	font-family: 'Roboto Slab', serif;
+}
+#pictureOfSelf.hover {
+	width: 50%;
 }
